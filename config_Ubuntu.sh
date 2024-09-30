@@ -9,5 +9,6 @@ sudo apt install gdb -y
 sudo apt install make -y
 sudo apt install default-jdk -y
 sudo apt install jq -y
+sudo apt autoremove -y
 
 ./config_git.sh
