@@ -13,7 +13,6 @@ echo     ^|_^|___^|______^|
 echo       ^| ^|    ^| ^|     
 echo       ^| ^|    ^| ^|     
 echo       ^|_^|    ^|_^|    
-echo Copyright (c) 2024 Mauricio Sardinha, under MIT License
+echo Copyright (c) 2024 Mauricio Sardinha, under GPL-V3 License
 timeout /t 2 /nobreak >nul
 echo.
-
