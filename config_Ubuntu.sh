@@ -20,11 +20,23 @@
 sudo apt update
 sudo apt upgrade -y
 sudo apt install tree -y
+sudo apt install code -y
 sudo apt install gcc -y
 sudo apt install g++  -y
 sudo apt install gdb -y
 sudo apt install make -y
+sudo apt install git -y
 sudo apt install default-jdk -y
+sudo apt install openjdk-8-jdk -y
+sudo apt install openjdk-11-jdk -y
+sudo apt install openjdk-17-jdk -y
+sudo apt install openjdk-21-jdk -y
+sudo apt install docker.io -y
+sudo apt install docker-compose -y
+sudo apt install net-tools -y
+sudo apt install curl -y
+sudo apt install wget -y
+sudo apt install sqlite3 -y
 sudo apt install jq -y
 sudo apt autoremove -y
 
